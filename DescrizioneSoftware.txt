@@ -1,0 +1,5 @@
+1. Gestionale di un giornale fisico
+2. Partire da 3 notizie header centro e foother
+3. ogni giorno 1 giornale
+4. randomizzare venduti rispetto alle copie
+5. statistiche %vendute, %non venduti, count(articoli) per ogni articoli
