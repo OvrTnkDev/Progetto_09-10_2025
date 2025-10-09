@@ -2,7 +2,7 @@ using System;
 
 namespace Utils
 {
-    // Classe specializzata per gestire la sicurezza
+    // Classe specializzata per gestire il footer
     public class Footer : Center
     {
         public string Redazione { get; set; }
