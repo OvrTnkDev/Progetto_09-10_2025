@@ -2,19 +2,24 @@ using System;
 
 namespace Utils
 {
-    // Classe generica di un operatore
+    
     public class Journal
     {
-        public string Titolo { get; set; }
+        public string Nome { get; set; }
         public int CopieTotali { get; set; }
-        public void journal(string Titolo, int CopieTotali)
+        public Journal(string Nome, int CopieTotali)
         {
-            this.Titolo = Titolo;
+            this.Nome = Nome;
             this.CopieTotali = CopieTotali;
         }
         public virtual void StampaInfo()
         {
-            Console.WriteLine($"Titolo: {Titolo}, Copie Totali: {CopieTotali}");
+            Console.WriteLine($"Titolo: {Nome}, Copie Totali: {CopieTotali}");
+        }
+       
+        public virtual void PublishSection()
+        {
+            Console.WriteLine("publishing Juornal");
         }
     }
 }
