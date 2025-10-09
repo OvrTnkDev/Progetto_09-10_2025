@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{66E945DB-9144-342E-8E4F-594078535303}|Gestione di un giornale\\GestioneGiornale\\GestioneGiornale.csproj|solutionrelative:gestione di un giornale\\gestionegiornale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66E945DB-9144-342E-8E4F-594078535303}|Gestione di un giornale\\GestioneGiornale\\GestioneGiornale.csproj|c:\\users\\arvin\\documents\\github\\proggeto\\progetto_09-10_2025\\gestione di un giornale\\gestionegiornale\\utils\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66E945DB-9144-342E-8E4F-594078535303}|Gestione di un giornale\\GestioneGiornale\\GestioneGiornale.csproj|solutionrelative:gestione di un giornale\\gestionegiornale\\utils\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arvin\\Documents\\GitHub\\proggeto\\Progetto_09-10_2025\\Gestione di un giornale\\GestioneGiornale\\Utils\\Header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gestione di un giornale\\GestioneGiornale\\Utils\\Header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66E945DB-9144-342E-8E4F-594078535303}|Gestione di un giornale\\GestioneGiornale\\GestioneGiornale.csproj|c:\\users\\arvin\\documents\\github\\proggeto\\progetto_09-10_2025\\gestione di un giornale\\gestionegiornale\\utils\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66E945DB-9144-342E-8E4F-594078535303}|Gestione di un giornale\\GestioneGiornale\\GestioneGiornale.csproj|solutionrelative:gestione di un giornale\\gestionegiornale\\utils\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arvin\\Documents\\GitHub\\proggeto\\Progetto_09-10_2025\\Gestione di un giornale\\GestioneGiornale\\Utils\\Journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gestione di un giornale\\GestioneGiornale\\Utils\\Journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Gestione di un giornale\\GestioneGiornale\\Utils\\Header.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T14:24:27.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T14:24:27.993Z"
             },
             {
               "$type": "Document",
