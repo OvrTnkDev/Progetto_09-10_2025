@@ -6,9 +6,13 @@ class Program
 {
     static void Main(string[] args)
     {
+<<<<<<< Updated upstream
         Random random = new Random();
         for( int day =1; day<=5; day++)
         { }
 
+=======
+        
+>>>>>>> Stashed changes
     }
 }
