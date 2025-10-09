@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dales\\Documents\\GitHub\\Progetto_09-10_2025\\Gestione di un giornale\\GestioneGiornale\\GestioneGiornale.csproj": {}
+    "C:\\Users\\dales\\Documents\\GitHub\\Progetto_09-10_20251\\Gestione di un giornale\\GestioneGiornale\\GestioneGiornale.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dales\\Documents\\GitHub\\Progetto_09-10_2025\\Gestione di un giornale\\GestioneGiornale\\GestioneGiornale.csproj": {
+    "C:\\Users\\dales\\Documents\\GitHub\\Progetto_09-10_20251\\Gestione di un giornale\\GestioneGiornale\\GestioneGiornale.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dales\\Documents\\GitHub\\Progetto_09-10_2025\\Gestione di un giornale\\GestioneGiornale\\GestioneGiornale.csproj",
+        "projectUniqueName": "C:\\Users\\dales\\Documents\\GitHub\\Progetto_09-10_20251\\Gestione di un giornale\\GestioneGiornale\\GestioneGiornale.csproj",
         "projectName": "GestioneGiornale",
-        "projectPath": "C:\\Users\\dales\\Documents\\GitHub\\Progetto_09-10_2025\\Gestione di un giornale\\GestioneGiornale\\GestioneGiornale.csproj",
+        "projectPath": "C:\\Users\\dales\\Documents\\GitHub\\Progetto_09-10_20251\\Gestione di un giornale\\GestioneGiornale\\GestioneGiornale.csproj",
         "packagesPath": "C:\\Users\\dales\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dales\\Documents\\GitHub\\Progetto_09-10_2025\\Gestione di un giornale\\GestioneGiornale\\obj\\",
+        "outputPath": "C:\\Users\\dales\\Documents\\GitHub\\Progetto_09-10_20251\\Gestione di un giornale\\GestioneGiornale\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
