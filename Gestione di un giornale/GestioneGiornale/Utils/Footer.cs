@@ -19,8 +19,8 @@ namespace Utils
         }
         public string Copyright { get; set; }
 
-        public Footer(string title, string sottotitolo, string corpo, string redazione, string direttore, string copyright)
-                     : base(title, sottotitolo, corpo)
+        public Footer(string nome, int copieTotali, string sottoTitolo,string title, string sottotitolo, string corpo, string redazione, string direttore, string copyright)
+                     : base(nome, copieTotali, title, sottotitolo, corpo)
         {
             Redazione = redazione;
             Direttore = direttore;
