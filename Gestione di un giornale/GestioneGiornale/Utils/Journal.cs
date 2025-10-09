@@ -14,9 +14,9 @@ namespace Utils
         }
         public virtual void StampaInfo()
         {
-            Console.WriteLine($"Titolo: {Nome}, Copie Totali: {CopieTotali}");
+            Console.WriteLine($"Nome del giornale: {Nome}, Copie Totali: {CopieTotali}");
         }
-       
+
         public virtual void PublishSection()
         {
             Console.WriteLine("publishing Juornal");
