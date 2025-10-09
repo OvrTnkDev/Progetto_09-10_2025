@@ -4,7 +4,7 @@ namespace Utils
     public class Header : Journal
     {
         public string Title { get; set; }
-        public Header(string title)
+        public Header(string title) : base("Daily news", 1000)
         {
             Title = title;
         }
