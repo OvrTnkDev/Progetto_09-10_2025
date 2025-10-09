@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestioneGiornale")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc5e652870827ed42cb2fb030de1586b727c18d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f60b2a549c52ed0cfff8c6a622ca1b2ebfb456de")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestioneGiornale")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestioneGiornale")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

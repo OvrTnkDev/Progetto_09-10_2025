@@ -1,0 +1,5 @@
+C:\Users\Arvin\Documents\GitHub\proggeto\Progetto_09-10_2025\Gestione di un giornale\GestioneGiornale\obj\Debug\net9.0\GestioneGiornale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arvin\Documents\GitHub\proggeto\Progetto_09-10_2025\Gestione di un giornale\GestioneGiornale\obj\Debug\net9.0\GestioneGiornale.AssemblyInfoInputs.cache
+C:\Users\Arvin\Documents\GitHub\proggeto\Progetto_09-10_2025\Gestione di un giornale\GestioneGiornale\obj\Debug\net9.0\GestioneGiornale.AssemblyInfo.cs
+C:\Users\Arvin\Documents\GitHub\proggeto\Progetto_09-10_2025\Gestione di un giornale\GestioneGiornale\obj\Debug\net9.0\GestioneGiornale.csproj.CoreCompileInputs.cache
+C:\Users\Arvin\Documents\GitHub\proggeto\Progetto_09-10_2025\Gestione di un giornale\GestioneGiornale\obj\Debug\net9.0\GestioneGiornale.sourcelink.json
