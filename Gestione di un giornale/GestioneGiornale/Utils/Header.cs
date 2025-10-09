@@ -9,7 +9,6 @@ namespace Utils
             Title = title;
         }
 
-        public Header() : base("Daily news", 1000){}
         public override void PublishSection()
         {
             Console.WriteLine("Header section: Highlights ");

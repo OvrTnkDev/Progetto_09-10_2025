@@ -8,7 +8,7 @@ namespace Utils
         public string SottoTitolo { get; set; }
         public string Corpo { get; set; }
 
-        public Center(string sottoTitolo, string corpo) : base(string title)
+        public Center(string sottoTitolo, string corpo) : base("something")
         {
             SottoTitolo = sottoTitolo;
             Corpo = corpo;
