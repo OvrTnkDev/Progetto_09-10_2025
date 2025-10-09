@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Arvin\\Documents\\GitHub\\proggeto\\Progetto_09-10_2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66E945DB-9144-342E-8E4F-594078535303}|Gestione di un giornale\\GestioneGiornale\\GestioneGiornale.csproj|c:\\users\\arvin\\documents\\github\\proggeto\\progetto_09-10_2025\\gestione di un giornale\\gestionegiornale\\utils\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66E945DB-9144-342E-8E4F-594078535303}|Gestione di un giornale\\GestioneGiornale\\GestioneGiornale.csproj|solutionrelative:gestione di un giornale\\gestionegiornale\\utils\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{66E945DB-9144-342E-8E4F-594078535303}|Gestione di un giornale\\GestioneGiornale\\GestioneGiornale.csproj|c:\\users\\arvin\\documents\\github\\proggeto\\progetto_09-10_2025\\gestione di un giornale\\gestionegiornale\\utils\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66E945DB-9144-342E-8E4F-594078535303}|Gestione di un giornale\\GestioneGiornale\\GestioneGiornale.csproj|solutionrelative:gestione di un giornale\\gestionegiornale\\utils\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,25 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Header.cs",
-              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\GitHub\\proggeto\\Progetto_09-10_2025\\Gestione di un giornale\\GestioneGiornale\\Utils\\Header.cs",
-              "RelativeDocumentMoniker": "Gestione di un giornale\\GestioneGiornale\\Utils\\Header.cs",
-              "ToolTip": "C:\\Users\\Arvin\\Documents\\GitHub\\proggeto\\Progetto_09-10_2025\\Gestione di un giornale\\GestioneGiornale\\Utils\\Header.cs",
-              "RelativeToolTip": "Gestione di un giornale\\GestioneGiornale\\Utils\\Header.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T14:24:27.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Journal.cs",
               "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\GitHub\\proggeto\\Progetto_09-10_2025\\Gestione di un giornale\\GestioneGiornale\\Utils\\Journal.cs",
               "RelativeDocumentMoniker": "Gestione di un giornale\\GestioneGiornale\\Utils\\Journal.cs",
               "ToolTip": "C:\\Users\\Arvin\\Documents\\GitHub\\proggeto\\Progetto_09-10_2025\\Gestione di un giornale\\GestioneGiornale\\Utils\\Journal.cs",
               "RelativeToolTip": "Gestione di un giornale\\GestioneGiornale\\Utils\\Journal.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T14:19:22.605Z",
               "EditorCaption": ""

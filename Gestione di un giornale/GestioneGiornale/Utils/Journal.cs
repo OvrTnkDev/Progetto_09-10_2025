@@ -7,7 +7,7 @@ namespace Utils
     {
         public string Titolo { get; set; }
         public int CopieTotali { get; set; }
-        public void journal(string Titolo, int CopieTotali)
+        public Journal(string Titolo, int CopieTotali)
         {
             this.Titolo = Titolo;
             this.CopieTotali = CopieTotali;
@@ -15,6 +15,11 @@ namespace Utils
         public virtual void StampaInfo()
         {
             Console.WriteLine($"Titolo: {Titolo}, Copie Totali: {CopieTotali}");
+        }
+       
+        public virtual void PublishSection()
+        {
+            Console.WriteLine("publishing Juornal");
         }
     }
 }
