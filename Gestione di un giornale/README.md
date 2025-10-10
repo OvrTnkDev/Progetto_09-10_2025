@@ -16,11 +16,11 @@ Il sistema utilizza una logica ad oggetti, con generazione casuale dei dati di v
 
 ## Struttura progetto
 
-|── Program.cs                 # Entry point dell'applicazione
-|── Utils/
-│   ├── Articolo.cs            # Gestisce il corpo e i dettagli di un articolo
-│   ├── Giornata.cs            # Gestisce i giorni di pubblicazione
-│   └── Journal.cs             # Gestisce i giornali (titolo, data, copie, ecc.)
+- |── Program.cs                 # Entry point dell'applicazione
+- |── Utils/
+- │   ├── Articolo.cs            # Gestisce il corpo e i dettagli di un articolo
+- │   ├── Giornata.cs            # Gestisce i giorni di pubblicazione
+- │   └── Journal.cs             # Gestisce i giornali (titolo, data, copie, ecc.)
 
 
 
