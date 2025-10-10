@@ -30,6 +30,10 @@ namespace Utils
             }
         }
 
+        /// <summary>
+        /// stampa le statistiche del giornale con totale copie stampate, vendute e non vendute, la percentuale di copie vendute, 
+        /// la percentuale di copie non vendute e la media delle copie vendute
+        /// </summary>
         public void Statistiche()
         {
             int totaleCopieStampate = 0;
@@ -41,9 +45,9 @@ namespace Utils
                 totaleCopieVendute += g.CopieVendute;
             }
 
-            double  percentualeCopieVendute = (double)totaleCopieVendute / totaleCopieStampate * 100;
-            double  percentualeCopieNonVendute = 100 - percentualeCopieVendute;
-            double  mediaCopieVendute = (double)totaleCopieVendute / Giornate.Count;
+            double percentualeCopieVendute = (double)totaleCopieVendute / totaleCopieStampate * 100;
+            double percentualeCopieNonVendute = 100 - percentualeCopieVendute;
+            double mediaCopieVendute = (double)totaleCopieVendute / Giornate.Count;
 
             Console.WriteLine($"Statistiche giornale {Nome}:");
             Console.WriteLine("===================================================");

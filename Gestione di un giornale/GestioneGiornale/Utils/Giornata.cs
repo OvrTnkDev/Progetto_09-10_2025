@@ -16,7 +16,7 @@ namespace GestioneGiornale.Utils
             Articolo = articolo;
         }
 
-        public virtual void StampaInfo()
+        public virtual void StampaInfo() //stampa la giornata di pubblicazione e l'articolo completo
         {
             Console.WriteLine("===================================================");
             Console.WriteLine($"Giornata del {Data.ToShortDateString()}");

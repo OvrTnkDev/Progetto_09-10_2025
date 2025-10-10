@@ -18,7 +18,7 @@ namespace GestioneGiornale.Utils
             Footer = footer;
         }
 
-        public void Stampa()
+        public void Stampa() //stampa l'articolo completo di titolo, corpo e pie di pagina
         {
             Console.WriteLine($"{Header}");
             Console.WriteLine($"====================================");
